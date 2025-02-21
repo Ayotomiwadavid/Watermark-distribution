@@ -1,1 +1,10 @@
 
+User-agent: *
+User-agent: Googlebot
+User-agent: Yeti
+User-agent: Daum
+User-agent: Bingbot
+Allow: /
+
+
+#DaumWebMasterTool:6037515554665ec8c789da6b96a5a7b0c54fb9e899926a34ccecd0ff496b8bf7:0TB6ad9QnlHAR45NNH2H/g==
